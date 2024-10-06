@@ -18,7 +18,7 @@ A digital goniometer project using Arduino and MATLAB to measure joint angles, c
   - 10kΩ potentiometer
   - 5V DC motor
   - H-Bridge (4 TIP31C transistors, 4 resistors of 1kΩ)
-  [H-Bridge Circuit](images/HBridge.png)
+  ![H-Bridge Circuit](images/hbridge.png)
   - Breadboard and connecting wires
   - 9V battery
   - Materials for the armband (straps, arm sleeve, insulating tape)
@@ -27,7 +27,7 @@ A digital goniometer project using Arduino and MATLAB to measure joint angles, c
   - [Arduino IDE](https://www.arduino.cc/en/software)
   - [MATLAB](https://www.mathworks.com/) (version 2014a or later)
 
-[Example](images/goniometer.png)
+![Example](images/goniometer.png)
 
 ## Credits
 
