@@ -31,7 +31,7 @@ A digital goniometer project using Arduino and MATLAB to measure joint angles, c
 
 ## Credits
 
-- Oscar Iván Hernández Gómez
-- José Rodrigo Quintero Valdez
+- Oscar Ivan Hernandez Gomez
+- Jose Rodrigo Quintero Valdez
 - Victor Manuel Mariscal Cervantes
-- Yaisiri Monserrat Hernández León
+- Yaisiri Monserrat Hernández Leon
